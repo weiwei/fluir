@@ -1,11 +1,5 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Joel Wang",
-  "license": "MIT",
   "dependencies": {
-    "loopback": "^3.27.0",
     "typo-js": "^1.1.0"
   }
 }
