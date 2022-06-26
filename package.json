@@ -51,8 +51,8 @@
     "@loopback/core": "^2.0.0",
     "@loopback/openapi-v3": "^3.0.0",
     "@loopback/repository": "^2.0.0",
-    "@loopback/rest": "^3.0.0",
-    "@loopback/rest-explorer": "^2.0.0",
+    "@loopback/rest": "^9.0.0",
+    "@loopback/rest-explorer": "^3.0.0",
     "@loopback/service-proxy": "^2.0.0",
     "tslib": "^1.10.0",
     "typo-js": "^1.1.0"
